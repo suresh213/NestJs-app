@@ -17,7 +17,7 @@ API:
 GET - http://13.201.69.55:8000/users
 
 POST - http://13.201.69.55:8000/users
-Body:
+Request Body:
 {
     "email": "suresh@gmail.com"
 }
